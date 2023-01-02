@@ -1,5 +1,28 @@
-# Read Read Read -- learn
-My first Repository
-this repository recording how to use GitHub and from 0 to 1 is very interesting
-this repository is used to recording and if you find some fluats , do not tell me, because that's useless, I won't change that.
-HAHAHAHAHAHA
+###### Markdown test
+
+>这是引用
+
+###### 有序列表
+把大象装进冰箱
+1.打开冰箱
+2.把大象装进去
+3.关上冰箱
+
+###### 无序列表
+把大象装进冰箱
+-打开冰箱
+-把大象装进去
+-关上冰箱
+
+###### 任务列表
+明天要做的事：
+-[x]吃饭
+-[x]睡觉
+-[]写作业
+
+###### 代码块
+```c
+int main()
+{
+
+}
